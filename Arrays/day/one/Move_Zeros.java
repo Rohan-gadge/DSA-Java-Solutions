@@ -1,3 +1,4 @@
+package arrays.day.opne;
 public class Move_Zeros {
 
 	public static void main(String[] args) {
